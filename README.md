@@ -1,0 +1,3 @@
+This project focuses on analyzing residential property prices in Dubai to identify pricing trends, location-based variations, and key factors influencing real estate valuations. The dataset includes property attributes such as location, property type, size, number of bedrooms, and listed prices.
+
+The project involves data cleaning and preprocessing to handle missing values and inconsistencies, followed by exploratory data analysis (EDA) to uncover market patterns and correlations. An interactive dashboard is developed to visualize price distributions, average prices by area and property type, and demand indicators.
